@@ -1,2 +1,2 @@
 # quality-of-life-us
-Data Analysis of the Quality of Life per State in the US
+WORK IN PROGRESS | Data Analysis of the Quality of Life per State in the US
